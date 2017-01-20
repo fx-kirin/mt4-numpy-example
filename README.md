@@ -31,4 +31,4 @@ MT4_EXPFUNC double __stdcall GetNumpyMean(double *value, int arraysize, int peri
 - value : input value
 - arraysize : size of input value
 - period : moving average period
-- index of value like MQL iMA
+- index like MQL iMA
