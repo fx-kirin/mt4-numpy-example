@@ -1,0 +1,3 @@
+LIBRARY PythonNumpyMean
+
+EXPORTS GetNumpyMean
